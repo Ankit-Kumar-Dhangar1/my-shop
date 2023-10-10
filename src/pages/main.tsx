@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../logo.svg';
 import '../App.css';
-import { sum } from '../App';
+// import { sum } from '../App';
 
 function main(name: string) {
   return (
